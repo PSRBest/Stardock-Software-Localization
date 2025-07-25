@@ -19,10 +19,10 @@ msgid "a folder"
 msgstr "一个文件夹"
 
 msgid "A folder cannot be created inside of this folder. Please try again."
-msgstr "无法在此文件夹内创建文件夹。请重试。"
+msgstr "无法在此文件夹内新建文件夹，请重试。"
 
 msgid "A newer version is already installed"
-msgstr "已安装较新版本"
+msgstr "已安装最新版"
 
 msgid "a program shortcut"
 msgstr "程序快捷方式"
@@ -39,21 +39,19 @@ msgstr "关于"
 msgid ""
 "Access multiple screens of icons by grabbing and pulling the edge of your screen, like on your mobile phone. Use them to keep different parts of your computing life separate.\n"
 "\n"
-msgstr ""
-"像在手机上一样，按住并左右滑动屏幕边缘，即可访问多屏图标。您可以通过它便捷地将工作与生活的文件分开。\n"
-"\n"
+msgstr "通过拖拽屏幕边缘以切换桌面布局"
 
 msgid "Access the contents of any folder directly from the desktop in a fully customizable live view."
-msgstr "通过可以完全自定义的实时视图，直接从桌面访问任何文件夹的内容。"
+msgstr "在桌面直接访问自定义的文件夹内容。"
 
 msgid "Activate"
-msgstr "启用"
+msgstr "激活"
 
 msgid "Activate enterprise license"
 msgstr "激活企业许可证"
 
 msgid "Activate tab mouse is over when showing a group docked to the edge of the screen"
-msgstr "在显示停靠在屏幕边缘的组时，激活鼠标所在的选项卡"
+msgstr "鼠标悬停在屏幕边缘的分区时，激活分区标签"
 
 msgid "Activation successful."
 msgstr "激活成功"
@@ -62,28 +60,28 @@ msgid "Add"
 msgstr "添加"
 
 msgid "Add \"Show Fences\" icon to my taskbar"
-msgstr "在我的任务栏上添加 \"显示Fences\" 图标"
+msgstr "在任务栏上添加 \"显示Fences\" 图标"
 
 msgid "Add / Remove"
 msgstr "添加 / 移除"
 
 msgid "Add a Custom Rule..."
-msgstr "添加自定义规则"
+msgstr "添加自定义规则..."
 
 msgid "Add a non Folder Portal group to use rules."
-msgstr "将非文件夹门户组添加以使用规则。"
+msgstr "添加非文件夹分区组以应用规则。"
 
 msgid "Add additional criteria..."
-msgstr "添加其他标准"
+msgstr "添加更多条件..."
 
 msgid "Add another rule..."
 msgstr "添加其他规则"
 
 msgid "Add new Folder Portal"
-msgstr "添加新的 Folder Portal"
+msgstr "添加新的文件夹分区"
 
 msgid "Add new icons as the first icon in the target Fence"
-msgstr "添加新图标，并将其作为目标桌面分区中的首个图标"
+msgstr "添加新图标到目标分区并置顶"
 
 msgid "Add new tab"
 msgstr "添加新标签页"
@@ -92,10 +90,10 @@ msgid "Add rule..."
 msgstr "添加规则..."
 
 msgid "Add to tab group"
-msgstr "添加到标签组"
+msgstr "添加到标签栏"
 
 msgid "Add to tab group?"
-msgstr "添加到标签组？"
+msgstr "添加到标签栏吗？"
 
 msgid "Additional options"
 msgstr "其他选项"
@@ -161,10 +159,10 @@ msgid "Allow navigation"
 msgstr "允许导航"
 
 msgid "Allow users to \"have their own Fence\" by unlocking specific Fence groups that you have created/deployed."
-msgstr "允许用户通过解锁您创建/部署的特定Fence组来“拥有自己的Fence”。"
+msgstr "允许用户通过解锁您创建/部署的特定分区来“自定义分区”。"
 
 msgid "Alt"
-msgstr "翻译的文本：Alt"
+msgstr "Alt"
 
 msgid "Always"
 msgstr "总是"
@@ -176,7 +174,7 @@ msgid "Always use this answer"
 msgstr "总是使用此配置"
 
 msgid "An update to Fences is available!"
-msgstr "有可用的 Fences 更新！"
+msgstr "Fences有可用更新！"
 
 msgid "Analytics"
 msgstr "分析"
@@ -185,13 +183,13 @@ msgid "and"
 msgstr "和"
 
 msgid "Animate icons when they move"
-msgstr "显示移动时的图标动画"
+msgstr "移动图标时显示动画"
 
 msgid "Animate the page-switching"
-msgstr "增加页面切换动画效果"
+msgstr "切换页面时显示动画"
 
 msgid "Any group you select, the user will be able to add their own icons. We recommend you use an empty group."
-msgstr "您选择的任何组，用户都将能够添加他们自己的图标。我们建议您使用一个空的组。"
+msgstr "用户可以在您选择的任何组中添加自己的图标，建议您使用空白组。"
 
 msgid "Apply a custom look to your Fence groups"
 msgstr "将自定义外观应用于桌面分区"
@@ -200,20 +198,20 @@ msgid ""
 "Apply a layout to help get started.\n"
 "Recommended for most users, easy to undo."
 msgstr ""
-"应用自动布局以开始使用。\n"
-"（推荐）大多数用户的首选，易于撤消"
+"应用默认布局以开始使用。\n"
+"（推荐）大多数用户的首选，易于撤销"
 
 msgid "Apply custom tint to icons"
 msgstr "将自定义色调应用于图标"
 
 msgid "Apply custom tint to icons in this group"
-msgstr "将自定义色调应用于此组的图标"
+msgstr "将自定义色调应用于此组中的图标"
 
 msgid "Apply rules now"
 msgstr "立即应用规则"
 
 msgid "Apply rules now to existing icons"
-msgstr "立即将规则应用于现有图标"
+msgstr "立即应用规则于现有图标"
 
 msgid ""
 "Are you sure you want to always force your icons to follow the rules defined above?\n"
@@ -223,33 +221,33 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
-"您确定总是强制图标遵循上面定义的规则吗？\n"
+"确定总是强制图标遵循上诉的规则吗？\n"
 "\n"
-"以此方式使用规则可能会在桌面分区之间不必要地移动图标。\n"
-"建议您在继续操作之前创建一个桌面快照。\n"
+"此方式可能导致图标在分区间意外移动。\n"
+"建议继续操作之前创建一个桌面快照。\n"
 "\n"
-"是否确认？"
+"是否确定？"
 
 msgid "Are you sure you want to delete this backup?"
-msgstr "您确定要删除此备份吗？"
+msgstr "确定要删除此备份吗？"
 
 msgid "Are you sure you want to remove this Fence and send its contents to the Recycle Bin?"
-msgstr "您确定要删除此桌面分区，并将其内容删除到回收站吗？"
+msgstr "确定要删除此桌面分区，并将其内容删除到回收站吗？"
 
 msgid "Are you sure you want to remove this Fence?"
-msgstr "您确定要取消此桌面分区吗？"
+msgstr "确定要取消此桌面分区吗？"
 
 msgid "Are you sure you want to remove this rule?"
-msgstr "您确定要删除此规则吗？"
+msgstr "确定要删除此规则吗？"
 
 msgid "Are you sure you want to reset the appearance of all Fence groups?"
-msgstr "您确定要重置所有桌面分区的外观吗？"
+msgstr "确定要重置所有桌面分区的外观吗？"
 
 msgid "Are you sure you want to reset this group's custom color?"
-msgstr "您确定要重置本分区的自定义颜色吗？"
+msgstr "确定要重置该分区的自定义颜色吗？"
 
 msgid "Are you sure you want to reset this rule back to its default criteria?"
-msgstr "您确定重置此规则吗？"
+msgstr "确定重置此规则吗？"
 
 msgid ""
 "Are you sure you want to run all rules now?\n"
@@ -258,14 +256,14 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
-"您确定要立即应用所有规则吗？\n"
+"确定要立即应用所有规则吗？\n"
 "\n"
-"运行规则可能会使 Fences 在桌面分区之间不必要地移动图标。建议您在继续操作之前拍摄快照。\n"
+"此方式可能导致图标在分区间意外移动。建议继续操作之前创建一个桌面快照。\n"
 "\n"
-"要继续吗？"
+"是否确定？"
 
 msgid "Are you sure you'd like to reset your per-Fence customized settings?"
-msgstr "您确定要重置每个桌面分区的自定义设置吗？"
+msgstr "确定要重置每个桌面分区的自定义设置吗？"
 
 msgid "at least"
 msgstr "至少"
@@ -301,16 +299,16 @@ msgid "Automatically sort icons into groups based on their name, file type, or o
 msgstr "根据图标名称、文件类型或其他标准，自动将图标分类分组。"
 
 msgid "Automatically take daily backups (most recent 3 days will be kept)"
-msgstr "自动进行日常备份（将保留最近的3天）"
+msgstr "每日自动备份（保留最近3天）"
 
 msgid "Available rules:"
 msgstr "可用规则："
 
 msgid "Awaiting for a Config file path to be specified in {0}, or for config to be applied via {1}"
-msgstr "正在等待在指定配置文件路径 {0} ，或通过 {1} 应用设置"
+msgstr "等待在 {0} 中指定配置文件路径，或通过 {1} 应用配置"
 
 msgid "Awaiting license file in {0}"
-msgstr "正在等待许可证文件 {0}"
+msgstr "等待{0}中的许可证文件"
 
 msgid "Background Color"
 msgstr "背景颜色"
@@ -319,7 +317,7 @@ msgid "Background Style"
 msgstr "背景样式"
 
 msgid "Backup captured"
-msgstr "备份捕获"
+msgstr "备份已获取"
 
 msgid "Backup deleted"
 msgstr "备份已删除"
@@ -340,7 +338,7 @@ msgid ""
 "Below, you can define rules that will govern where new icons are placed.\n"
 "Sample rules are provided or you can create your own - click \"Add rule...\" to get started!"
 msgstr ""
-"下面，您可以自定义管理新图标的分区的规则。\n"
+"您可以在下面自定义新图标的分区规则。\n"
 "您可以参考系统提供的示例，然后点击 \"添加规则\" 以开始创建自己的规则！"
 
 msgid "between"
@@ -350,22 +348,22 @@ msgid "Blend"
 msgstr "混合"
 
 msgid "Blend background into wallpaper with Chameleon"
-msgstr "使用 Chameleon 将您的分区与图标融入壁纸中"
+msgstr "使用 Chameleon 将分区与图标融入壁纸"
 
 msgid "Blend icons into wallpaper"
 msgstr "将图标融入壁纸"
 
 msgid "Blend icons into wallpaper with Chameleon"
-msgstr "使用 Chameleon 将图标融入到壁纸"
+msgstr "使用 Chameleon 将图标融入壁纸"
 
 msgid "Blend into wallpaper with Chameleon"
 msgstr "使用 Chameleon 融入壁纸"
 
 msgid "Blend your icons into your wallpaper, and enjoy the all new peace of mind."
-msgstr "将图标与壁纸融为一体，享受全新体验。"
+msgstr "将图标与壁纸融为一体，享受全新的视觉体验。"
 
 msgid "Blue Fence area backgrounds"
-msgstr "蓝色 Fence 区域背景"
+msgstr "分区区域背景（蓝色主题）"
 
 msgid "Blur background"
 msgstr "模糊背景"
@@ -374,7 +372,7 @@ msgid "Blur group area background"
 msgstr "模糊分区背景"
 
 msgid "Book 15-30min call"
-msgstr "预约15-30分钟通话"
+msgstr "安排15-30分钟会话（技术支持）"
 
 msgid "Bottom"
 msgstr "底部"
@@ -389,7 +387,7 @@ msgid "Business License Management"
 msgstr "商业许可证管理"
 
 msgid "By creating program..."
-msgstr "通过创建程序"
+msgstr "通过创建程序..."
 
 msgid "By Default,"
 msgstr "默认情况下，"
@@ -398,28 +396,28 @@ msgid "By default..."
 msgstr "默认情况下..."
 
 msgid "By double-clicking blank space on your desktop, you have activated a feature of Fences called Quick-Hide.\n"
-msgstr "通过双击桌面的空白处，您已激活了Fences的一项功能叫做Quick-Hide。"
+msgstr "双击桌面空白区域可以激活Fences的快速隐藏功能。"
 
 msgid "By file-size..."
-msgstr "按文件大小"
+msgstr "按文件大小..."
 
 msgid "By last-modified..."
-msgstr "按上次修改时间"
+msgstr "按最后修改时间..."
 
 msgid "By link target..."
-msgstr "通过链接目标"
+msgstr "按链接目标..."
 
 msgid "By name..."
-msgstr "按名称"
+msgstr "按名称..."
 
 msgid "By the day of the week..."
-msgstr "按周日至周六顺序"
+msgstr "按周期..."
 
 msgid "by the program"
 msgstr "按程序"
 
 msgid "By the time of the day..."
-msgstr "按日期"
+msgstr "按日期..."
 
 msgid "By type..."
 msgstr "按类型"
@@ -434,16 +432,16 @@ msgid "Cancel"
 msgstr "取消"
 
 msgid "Cannot make a backup while Fences is not enabled."
-msgstr "当Fences未启用时，无法进行备份。"
+msgstr "Fences未启用时，无法创建备份。"
 
 msgid "Cannot perform an auto-layout while Fences is not enabled."
-msgstr "桌面分区未启用时无法执行自动布局。"
+msgstr "Fences未启用时，无法执行自动布局。"
 
 msgid "Cannot restore a backup while Fences is not enabled."
-msgstr "无法在未启用Fences时恢复备份。"
+msgstr "Fences未启用时，无法恢复备份。"
 
 msgid "Chameleon auto-disabled"
-msgstr "Chameleon 自动禁用"
+msgstr "Chameleon 已自动禁用"
 
 msgid "Change / resize the font used in Fences' labels"
 msgstr "更改/调整桌面分区标签字体大小"
@@ -461,7 +459,7 @@ msgid "Change font"
 msgstr "更改字体"
 
 msgid "Change icon tint color..."
-msgstr "更改图标色彩..."
+msgstr "更改图标颜色..."
 
 msgid "Change Rules Order"
 msgstr "更改规则顺序"
@@ -476,36 +474,36 @@ msgid ""
 "Changing the background or tint color will disable Chameleon when the option \"Show Fence groups in full color on mouseover\" or \"when desktop is active\" is not enabled.\n"
 "\n"
 "If you'd like to turn it back on, click here."
-msgstr "更改背景或色调颜色将在\"将Fence群组在鼠标悬停时以全色显示\"或\"桌面处于活动状态时\"选项未启"
+msgstr "在“鼠标悬停时以全彩显示分区”或“桌面激活”选项未启用时，更改背景图片或分区颜色会禁用 Chameleon 功能。\n\n如需重新启用，请点击此处。"
 
 msgid "Check for updates"
 msgstr "检查更新"
 
 msgid "Choose a color for your Fence groups, and adjust Fence labels to suit your tastes."
-msgstr "为您的桌面分区选择一个颜色，并调整桌面分区的标签以适应自己的风格。"
+msgstr "为桌面分区选择一个颜色，并调整桌面分区的标签样式以符合您的风格。"
 
 msgid ""
 "Choose a color from your wallpaper\n"
 "to find the accent color for you"
-msgstr "从你的壁纸中选择一种颜色，以找到为你准备的重点色彩。"
+msgstr "从壁纸中选择一个颜色用以自定义强调色。"
 
 msgid "Choose a default Fence for new icons, or automatically place icons in Fences by name, size, filetype, or a variety of customizable criteria."
-msgstr "为新图标选择默认桌面分区，或自动按名称、大小、文件类型或其他自定义分类放置。"
+msgstr "为新图标选择默认桌面分区，或自动按名称、大小、文件类型等分类放置。"
 
 msgid "Choose a different folder"
-msgstr "选择不同的文件夹"
+msgstr "选择其他文件夹"
 
 msgid "Choose a different folder..."
-msgstr "选择不同的文件夹"
+msgstr "选择其他文件夹"
 
 msgid "choose a Fence..."
-msgstr "选择一个分区"
+msgstr "选择一个分区..."
 
 msgid "Choose a folder"
 msgstr "选择一个文件夹"
 
 msgid "Choose a folder to place this Fence into"
-msgstr "选择放置此桌面分区的文件夹"
+msgstr "选择放置该桌面分区的文件夹"
 
 msgid "Choose a Layout"
 msgstr "选择布局"
@@ -518,13 +516,13 @@ msgstr ""
 "（推荐）大多数用户的首选，易于撤消"
 
 msgid "Choose an existing layout, or start new. Configure your desktop how it should look for the customer on first-boot, including which icons should appear in which Fences, and in what order. Please note the customer may not have all of the icons that you do."
-msgstr "选择一个已经存在的布局，或者新建一个。配置桌面应该如何在第一次启动时显示给客户，包括哪些图标应该出现在哪个Fences，以及什么顺序。请注意，客户可能没有你拥有的所有图标。"
+msgstr "选择现有布局或新建布局。配置桌面首次启动时的外观，包括哪些图标应出现在哪些分区中及其顺序。请注意用户可能没有您拥有的所有图标。"
 
 msgid "Choose folder"
 msgstr "选择文件夹"
 
 msgid "Choose from more icon types..."
-msgstr "从更多图标类型中选择"
+msgstr "选择更多图标类型..."
 
 msgid "Choose layout"
 msgstr "选择布局"
@@ -536,7 +534,7 @@ msgid "Classic icons"
 msgstr "经典图标"
 
 msgid "Click && drag the edge or titlebar of a Fence group to move or resize."
-msgstr "单击并拖动桌面分区的边缘或标题栏以移动或调整大小"
+msgstr "点击并拖动桌面分区的边缘或标题栏以移动或调整大小"
 
 msgid "Close"
 msgstr "关闭"
@@ -551,13 +549,13 @@ msgid "Color picker"
 msgstr "取色器"
 
 msgid "Compatibility issue found..."
-msgstr "发现兼容性问题"
+msgstr "发现兼容性问题..."
 
 msgid "Compatibiliy issue found..."
 msgstr "发现兼容性问题..."
 
 msgid "Complex multi-monitor deployments"
-msgstr "复杂的多监视器部署"
+msgstr "复杂的多显示器部署"
 
 msgid "Compressed file"
 msgstr "压缩文件"
@@ -569,10 +567,10 @@ msgid "Configuration Management"
 msgstr "配置管理"
 
 msgid "Configure Fences"
-msgstr "配置 Fences"
+msgstr "配置Fences"
 
 msgid "Configure Fences..."
-msgstr "配置 Fences"
+msgstr "配置Fences..."
 
 msgid "Contact deployment team to learn more."
 msgstr "联系部署团队以了解更多信息。"
@@ -599,19 +597,19 @@ msgid "Control"
 msgstr "控制"
 
 msgid "Conveniently access any folder right from a Fence group, with your choice of view style."
-msgstr "从桌面分区便捷地访问任何文件夹，可自定视图样式"
+msgstr "直接从分区中便捷访问任何文件夹，可自定义视图样式"
 
 msgid "Copy color"
 msgstr "复制颜色"
 
 msgid "Copy Fence color"
-msgstr "复制 Fence 颜色"
+msgstr "复制分区颜色"
 
 msgid "Copy from Fence background color"
-msgstr "从Fence背景颜色复制"
+msgstr "复制分区背景颜色"
 
 msgid "Copy from icon tint color"
-msgstr "从图标色彩复制"
+msgstr "复制图标颜色"
 
 msgid "Copy group style"
 msgstr "复制组样式"
@@ -626,7 +624,7 @@ msgid "Create a Fence™"
 msgstr "创建一个桌面分区"
 
 msgid "Create an empty Fence and then return here to select it."
-msgstr "创建一个空的Fence，然后返回这里选择它。"
+msgstr "创建一个空白桌面分区，然后返回此处选择它。"
 
 msgid "Create error report package for technical support"
 msgstr "为技术支持创建错误报告包"
@@ -635,7 +633,7 @@ msgid "Create Fence from a Folder"
 msgstr "从文件夹创建桌面分区"
 
 msgid "Create Fence groups with left and right mouse buttons"
-msgstr "用鼠标左、右键创建桌面分区"
+msgstr "使用鼠标左、右键创建桌面分区"
 
 msgid "Create Fence groups with left mouse button only"
 msgstr "仅使用鼠标左键创建桌面分区"
@@ -653,22 +651,22 @@ msgid "Create Folder"
 msgstr "创建文件夹"
 
 msgid "Create Folder Portal™ %1"
-msgstr "创建 Folder Portal %1"
+msgstr "创建文件夹分区 %1"
 
 msgid "Create Folder Portal™ groups with Alt + Drag/Drop"
-msgstr "使用 Alt + 拖放 来创建 Folder Portal"
+msgstr "按住 Alt 并拖拽鼠标以创建文件夹分区"
 
 msgid "Create Folder Portal™ here"
-msgstr "在此处创建 Folder Portal"
+msgstr "在此处创建文件夹分区"
 
 msgid "Create new Fence from these icons"
-msgstr "从这些图标创建新的桌面分区"
+msgstr "使用这些图标创建新的桌面分区"
 
 msgid "Create new Fence here"
 msgstr "在此处创建新的桌面分区"
 
 msgid "Create Report Package"
-msgstr "创建报告包裹"
+msgstr "生成报告文件"
 
 msgid "Create tab group"
 msgstr "创建标签组"
@@ -680,8 +678,8 @@ msgid ""
 "Creates 2 empty Fence groups for you to start using\n"
 "(Recommended for most casual users)"
 msgstr ""
-"创建 2 个空白桌面分区供您开始使用\n"
-"（推荐）适合大多数临时用户"
+"创建2个空白桌面分区以开始使用\n"
+"（推荐）适合大多数普通用户"
 
 msgid "Custom rules"
 msgstr "自定义规则"
@@ -699,13 +697,13 @@ msgid "Customize your Fence groups"
 msgstr "自定义您的桌面分区"
 
 msgid "Customize your Fence groups' background color & style."
-msgstr "自定义桌面分区的背景颜色和风格"
+msgstr "自定义桌面分区的背景颜色和样式"
 
 msgid "Customize..."
-msgstr "自定义"
+msgstr "自定义..."
 
 msgid "Customizing your Folder Portal groups"
-msgstr "自定义您的 Folder Portal"
+msgstr "自定义您的文件夹分区"
 
 msgid "Daily Backup"
 msgstr "每日备份"
@@ -714,16 +712,16 @@ msgid "Daily Snapshot"
 msgstr "每日快照"
 
 msgid "Dark"
-msgstr "黑暗"
+msgstr "深色"
 
 msgid "Darken Fence area title bars"
-msgstr "使桌面分区的标题栏变暗"
+msgstr "加深分区标题栏"
 
 msgid "Darken titlebar areas"
-msgstr "使标题栏区域变暗"
+msgstr "加深标题栏区域"
 
 msgid "Darker"
-msgstr "较暗"
+msgstr "较深"
 
 msgid "Date added to Fence"
 msgstr "已添加日期到桌面分区"
@@ -738,7 +736,7 @@ msgid "Date Taken:"
 msgstr "日期："
 
 msgid "days left in your free trial"
-msgstr "剩余的免费试用期限"
+msgstr "免费试用剩余天数"
 
 msgid "Delete Backup"
 msgstr "删除备份"
@@ -759,10 +757,10 @@ msgid "Deployment Planning & Support (Recommended to start)"
 msgstr "部署规划和支持（建议开始）"
 
 msgid "Deployment Planning & Support (Start here)"
-msgstr "部署规划与支持（从这里开始）"
+msgstr "部署规划与支持（由此开始）"
 
 msgid "Deployment style"
-msgstr "部署风格"
+msgstr "部署样式"
 
 msgid "Deployment Target"
 msgstr "部署目标"
@@ -774,55 +772,55 @@ msgid "Description:"
 msgstr "描述："
 
 msgid "Designed and developed by {0}."
-msgstr "由 {0} 设计和开发"
+msgstr "设计与开发：{0}"
 
 msgid "Desktop Files"
 msgstr "桌面文件"
 
 msgid "Desktop lock did not complete."
-msgstr "未完成桌面锁定"
+msgstr "桌面锁定未完成"
 
 msgid "Desktop locked. It will remain locked until you unlock it."
-msgstr "桌面已锁定，直到您手动将其解除。"
+msgstr "桌面已锁定，直到您手动解锁。"
 
 msgid "Desktop Pages"
 msgstr "多页桌面"
 
 msgid "Desktop quick-hide"
-msgstr "快速隐藏桌面（速隐）"
+msgstr "桌面快速隐藏（速隐）"
 
 msgid "Desktop quick-hide activated"
 msgstr "“速隐” 已激活"
 
 msgid "Desktop Shortcuts"
-msgstr "桌面快捷键"
+msgstr "桌面快捷方式"
 
 msgid "Desktop unlock did not complete."
-msgstr "未完成桌面解锁"
+msgstr "桌面解锁未完成"
 
 msgid "Desktop unlocked until the next reboot, or until you re-lock the desktop."
-msgstr "已解锁的桌面将在下次重启后自动锁定，当然您也可以手动锁定桌面"
+msgstr "桌面已解锁，再次锁定需要重启或您手动锁定"
 
 msgid "Desktop unlocked. It will remain unlocked until you lock it again."
-msgstr "桌面已解锁，其将在您再次锁定之前保持解锁。"
+msgstr "桌面已解锁，再次锁定需要您手动锁定。"
 
 msgid "Details"
 msgstr "详情"
 
 msgid "Details (Large)"
-msgstr "详情（多）"
+msgstr "更多详情"
 
 msgid "Device management"
 msgstr "设备管理"
 
 msgid "Disable icon tint"
-msgstr "禁用图标色彩"
+msgstr "禁用图标颜色"
 
 msgid "Disable per-Fence transparency"
 msgstr "禁用所有桌面分区的透明度"
 
 msgid "Disable snapping at any time by holding shift"
-msgstr "通过按住 Shift 以禁用快照"
+msgstr "按住Shift键可随时禁用吸附"
 
 msgid "Disabled"
 msgstr "已禁用"
@@ -834,10 +832,10 @@ msgid "Do not show this again"
 msgstr "不再显示此内容"
 
 msgid "Do nothing"
-msgstr "什么都不做"
+msgstr "无操作"
 
-msgid "Do you want to remove all of your Fences settings and saved backups?"
-msgstr "您确认删除“所有桌面分区的设置”，以及“保存的备份”吗？"
+msgid "Do you want to remove all of your Fences settings 和 saved backups?"
+msgstr "是否要删除所有 Fences 设置和保存的备份？"
 
 msgid "Document"
 msgstr "文档"
@@ -846,7 +844,7 @@ msgid "Documents"
 msgstr "文档"
 
 msgid "Does not apply to Folder Portals"
-msgstr "不适用于 Folder Portal"
+msgstr "不适用于文件夹分区"
 
 msgid "does not contain"
 msgstr "不包含"
@@ -867,28 +865,28 @@ msgid "Don't show this message again"
 msgstr "不再显示此消息"
 
 msgid "Double click Fence titlebar to toggle roll-up"
-msgstr "双击Fence标题栏以切换卷起功能。"
+msgstr "双击分区标题栏以切换收起状态。"
 
 msgid ""
 "Double clicking a Fence group's titlebar will cause it to roll-up into its titlebar, saving you space.\n"
 "\n"
 "Move your mouse over to reveal the Fence, or double-click again to disable. Move Fence to edge of screen to dock to the edge of the screen."
 msgstr ""
-"双击桌面分区的标题栏将使其自动卷折，从而节省空间\n"
+"双击桌面分区的标题栏将使其自动收起，以节省空间\n"
 "\n"
-"移动您的鼠标到标题栏以显示桌面分区，或再次双击以禁用自动卷起的功能。移动桌面分区到屏幕边缘以自动吸附。"
+"鼠标悬停在标题栏可展开分区，或再次双击禁用收起功能。拖动桌面分区到屏幕边缘可自动吸附。"
 
 msgid "Double clicking will roll-up your Fence!"
-msgstr "双击将卷折（卷起）您的桌面分区！"
+msgstr "双击将收起您的桌面分区！"
 
 msgid "Double-click blank space on your desktop at any time to quickly hide / reveal your desktop icons."
-msgstr "随时双击桌面空白处，快速隐藏/显示您的桌面图标。"
+msgstr "双击桌面空白区域，可快速隐藏/显示桌面图标。"
 
 msgid "Downloads"
 msgstr "下载"
 
 msgid "Drag to combine multiple Fence groups into one, and switch between them quickly and easily with Tabs. Hold shift to re-order or detach."
-msgstr "将多个Fence组合到一个中，并使用Tabs快速轻松地在它们之间切换。按住shift以重新排序或分离。"
+msgstr "将多个分区组合到一起，并通过标签页快速切换。按住shift可以重新排序或分离。"
 
 msgid "Draw a rectangle on your desktop and choose \"Create Fence\"."
 msgstr "在桌面上绘制一个矩形，然后选择“创建桌面分区”。"
@@ -900,7 +898,7 @@ msgid "Drop to create tab group"
 msgstr "拖动以创建标签组"
 
 msgid "Drop to detach tab from tab group"
-msgstr "将标签从标签组中拖出以分离"
+msgstr "拖动以从标签组中分离"
 
 msgid "Drop to merge tab groups"
 msgstr "拖放以合并标签组"
@@ -1440,7 +1438,7 @@ msgid "Icon spacing"
 msgstr "图标间距"
 
 msgid "Icon Tint"
-msgstr "图标色彩"
+msgstr "图标颜色"
 
 msgid "Icon transparency && fading Fence groups"
 msgstr "图标透明度和淡入淡出桌面分区"
@@ -2268,7 +2266,7 @@ msgid "Reset Fence color"
 msgstr "重置 Fences 颜色"
 
 msgid "Reset icon tint"
-msgstr "重置图标色彩"
+msgstr "重置图标颜色"
 
 msgid "Reset rule to default"
 msgstr "将规则重置为默认值"
@@ -2316,19 +2314,19 @@ msgid "Right click"
 msgstr "右键单击"
 
 msgid "Roll up Fence groups placed on edge of screen"
-msgstr "自动卷折（卷起）屏幕边缘的桌面分区"
+msgstr "自动收起（卷起）屏幕边缘的桌面分区"
 
 msgid "Roll up Fence groups to just their titlebars and show on mouseover, to keep your desktop nice and tidy."
-msgstr "卷折（卷起）桌面分区使其仅显示其标题栏。其在鼠标悬停时将自动显示，以保持桌面的干净整洁。"
+msgstr "收起（卷起）桌面分区使其仅显示其标题栏。其在鼠标悬停时将自动显示，以保持桌面的干净整洁。"
 
 msgid "Roll up Fences"
-msgstr "卷折（卷起）桌面分区"
+msgstr "收起（卷起）桌面分区"
 
 msgid "Rollup"
-msgstr "“卷折”"
+msgstr "“收起”"
 
 msgid "Roll-up Fence"
-msgstr "“卷折”桌面分区"
+msgstr "“收起”桌面分区"
 
 msgid "Round corner of Fence areas"
 msgstr "Fences 分区的圆角"
@@ -2382,7 +2380,7 @@ msgid "Segmented"
 msgstr "分段"
 
 msgid "Select icon tint color"
-msgstr "选择图标色彩"
+msgstr "选择图标颜色"
 
 msgid "Send certain file types to different places"
 msgstr "发送特定文件类型到不同的位置"
@@ -2893,7 +2891,7 @@ msgid "Troubleshooting"
 msgstr "故障排除"
 
 msgid "Turn off icon tint"
-msgstr "关闭图标色彩"
+msgstr "关闭图标颜色"
 
 msgid "Turn off sorting?"
 msgstr "是否关闭排序"
@@ -2947,7 +2945,7 @@ msgid "Use Fence background color"
 msgstr "使用Fence背景颜色"
 
 msgid "Use icon tint color"
-msgstr "使用图标色彩调整"
+msgstr "使用图标颜色调整"
 
 msgid "Use of this option will have a minor impact on performance, and so should only be used if you're experiencing an issue with the program. Continue?"
 msgstr "使用此选项会对性能产生轻微影响，因此，只有当你遇到程序问题时，才应使用。继续吗？"
@@ -3001,7 +2999,7 @@ msgid "Using quick-hide"
 msgstr "使用“速隐”功能"
 
 msgid "Using Roll-up Fences"
-msgstr "使用“卷折”功能"
+msgstr "使用“收起”功能"
 
 msgid "Using Tabs"
 msgstr "使用标签页"
@@ -3115,7 +3113,7 @@ msgid "With Quick-hide, you can quickly hide && show your desktop icons by doubl
 msgstr "使用Quick-hide功能，您可以通过双击桌面的空白区域迅速隐藏&&显示您的桌面图标。"
 
 msgid "With Rollup, you can collapse a Fence into its titlebar to keep your icons tucked away."
-msgstr "使用“卷折”功能，您可以将桌面分区折叠到标题栏中，使图标隐藏起来。"
+msgstr "使用“收起”功能，您可以将桌面分区折叠到标题栏中，使图标隐藏起来。"
 
 msgid "Work better with Fences"
 msgstr "Fences，静·净之选"
@@ -3283,7 +3281,7 @@ msgid "●  Deployment support available. We have accomodations for environments
 msgstr "●  提供部署支持。无论环境大或小，我们都提供适应性住宿，从10000个席位到10个。"
 
 msgid "●  Double click on a Fence group's titlebar to roll it up"
-msgstr "●  双击桌面分区的标题栏以将其“卷折”"
+msgstr "●  双击桌面分区的标题栏以将其“收起”"
 
 msgid "●  Drag one Fence on top of another to create a tab group"
 msgstr "●  将一个Fence拖到另一个Fence上，创建标签组"
